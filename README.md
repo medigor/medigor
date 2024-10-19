@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-https://github.com/medigor/addin-zeromq
-
 <!--
 **medigor/medigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
